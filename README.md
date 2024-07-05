@@ -1,7 +1,7 @@
-# Inmobiliaria en Codo
+# Inmobiliaria Codo
 
-¡Bienvenidos a Inmobiliaria Codo! Somos una inmobiliaria dedicada a ayudarte a encontrar la propiedad perfecta en. Ya sea que estés buscando comprar, vender o alquilar, estamos aquí para guiarte en cada paso del camino.
-Nos especializamos en encontrar el hogar perfecto para ti. Con años de experiencia en el sector, nuestro equipo de profesionales está comprometido en brindarte el mejor servicio y asesoría
+¡Bienvenidos a Inmobiliaria Codo! Somos una inmobiliaria dedicada a ayudarte a encontrar la propiedad perfecta para ti. Ya sea que estés buscando comprar, vender o alquilar, estamos aquí para guiarte en cada paso del camino.
+Nos especializamos en encontrar el hogar perfecto para ti. Con años de experiencia en el sector, nuestro equipo de profesionales está comprometido en brindarte el mejor servicio y asesoría.
 
 ## Nuestros Servicios
 
@@ -21,6 +21,8 @@ Nos especializamos en encontrar el hogar perfecto para ti. Con años de experien
   - CSS3
   - JavaScript
   - Bootstrap
+  - Node.Js
+  - Express Js
 
 ## Cómo Colaborar
 
@@ -30,11 +32,11 @@ Nos especializamos en encontrar el hogar perfecto para ti. Con años de experien
    - Si eres desarrollador, puedes contribuir al código fuente de nuestro sitio web. Simplemente crea una rama, realiza tus cambios y envía un pull request.
 
 2. **Compartir Nuestras Propiedades**:
-   - Ayúdanos a difundir nuestras propiedades en redes sociales o entre tus contactos. Cuantas más personas conozcan Fincas Verus, mejor.
+   - Ayúdanos a difundir nuestras propiedades en redes sociales o entre tus contactos. Cuantas más personas conozcan Inmobiliaria Codo, mejor.
 
 ## Contacto
 
-Si tienes alguna pregunta, no dudes en ponerte en contacto con nosotros. Visita nuestro sitio web [aquí](https://) para ver nuestras propiedades disponibles.
+Si tienes alguna pregunta, no dudes en ponerte en contacto con nosotros. Visita nuestro sitio web [aquí](https://inmobiliariacodo-by-grupo1.netlify.app/) para ver nuestras propiedades disponibles.
 
 ¡Gracias por confiar en Inmobiliaria Codo!
 
